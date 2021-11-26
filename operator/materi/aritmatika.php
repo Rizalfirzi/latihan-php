@@ -1,5 +1,5 @@
 <?php
-$a = 2;
+$a = 5;
 $b = 2;
 
 //penjumlahan
@@ -25,5 +25,10 @@ echo "<hr>";
 //sisa bagi
 $c = $a % $b;
 echo "$a % $b = $c";
+echo "<hr>";
+
+//pangkat
+$c = $a ** $b;
+echo "$a ** $b = $c";
 echo "<hr>";
 ?>
