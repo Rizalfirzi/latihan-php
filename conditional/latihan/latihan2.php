@@ -1,5 +1,5 @@
 <?php
-    $ipk = "0";
+    $ipk = "2.5";
     
     if ( $ipk <= 0 || $ipk > 4 ) {
         echo "sistem error";
